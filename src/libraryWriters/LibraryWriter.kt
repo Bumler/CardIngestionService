@@ -1,0 +1,4 @@
+package libraryWriters
+
+class LibraryWriter {
+}

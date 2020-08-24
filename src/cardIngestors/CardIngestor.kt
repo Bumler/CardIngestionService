@@ -1,0 +1,4 @@
+package cardIngestors
+
+interface CardIngestor {
+}
